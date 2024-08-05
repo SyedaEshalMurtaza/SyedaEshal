@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning TypeScript and working on various coding projects.
 - 💞️ I’m looking to collaborate on open-source projects, especially those related to web development.
-- 📫 How to reach me You can reach me via [Email](syedaeshal75@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/syeda-eshal-murtaza-9908152b7/).
+- 📫 How to reach me You can reach me via [Email](syedaeshal75@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/syeda-eshal-murtaza-9908152b7/).
 - 😄 Pronouns: She/Her
 
 <!---
